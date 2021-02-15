@@ -1,12 +1,16 @@
 # How to use this repo
 Clone the repo
 - git clone https://github.com/minspinaltech/ngx-admin
+
 cd into the location you cloned the repo to and install packages
 - cd ngx-admin && npm i
+
 Checkout a new branch to edit code on
 - git checkout -b <name>
+
 Commit new branch to repo
 - git commit -a -m '<Description of Version'
+
 Run npm start from local repo to test on local device
 - npm start
 
